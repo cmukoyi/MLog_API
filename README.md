@@ -1,3 +1,3 @@
 # MLog_API
 add devices onto mlog in bulk
-mail generator
+mail generator using py
