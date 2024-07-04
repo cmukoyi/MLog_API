@@ -1,0 +1,5 @@
+Total Policies: 12
+Total Device Types: {'Virtual': 6, 'MHubObd': 6}
+Unit Status Counts: {' UnitNeverActivated': 6, ' UnitActivated': 6}
+User Status Counts: {' UserNotRegistered': 7, ' UserRegistered': 5}
+Unit Assignment Status Counts: {' UnitNotAssigned': 7, ' UnitAssigned': 5}

@@ -13,7 +13,7 @@ def check_website(url):
         print(f"Could not connect to {url}. It might be offline.")
 
 # Replace 'https://example.com' with the URL you want to check
-website_url = 'https://efu.mzoneweb.net/web/'
+website_url = 'https://live.mzoneweb.net/web/'
 
 # Schedule the job to run every 5 minutes (you can adjust the schedule as needed)
 schedule.every(10).seconds.do(check_website, website_url)
